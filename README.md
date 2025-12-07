@@ -1,4 +1,4 @@
-# Mireror official Jellyfin Plugin Repositories
+# Mirror Official Jellyfin Plugin Repositories
 # manifest.json
 #
 # Collection 3rd-Party Plugin Repositories
